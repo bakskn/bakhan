@@ -1,2 +1,0 @@
-# bakhan
-Badre Alam Khan
