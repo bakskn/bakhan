@@ -1,0 +1,5 @@
+streamlit
+flatlib
+google-generativeai
+python-dateutil
+pytz
